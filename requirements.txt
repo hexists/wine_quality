@@ -41,6 +41,6 @@ statsmodels==0.10.2
 tensorboard==1.12.2
 tensorflow==1.12.2
 termcolor==1.1.0
-urllib3==1.25.7
+urllib3==1.26.5
 Werkzeug==0.16.0
 wrapt==1.11.2
