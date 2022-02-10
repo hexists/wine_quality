@@ -39,7 +39,7 @@ six==1.13.0
 sklearn==0.0
 statsmodels==0.10.2
 tensorboard==1.12.2
-tensorflow==1.12.2
+tensorflow==2.5.3
 termcolor==1.1.0
 urllib3==1.25.7
 Werkzeug==0.16.0
